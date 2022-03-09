@@ -1,0 +1,9 @@
+This folder consists of the programs written on Day 12 and the program for the Task assigned on Day 12 - "Task.cpp". 
+
+Topics discussed today - 
+1. Accessing Base class's parameterized constructor while creating a Dervied class object
+2. Advantages and Disadvantages of Inheritance
+3. Pointer to array of objects
+4. 'this' pointer
+5. Pointer to a derived class object
+6. Pointing a pointer of Base class type to a derived class object
